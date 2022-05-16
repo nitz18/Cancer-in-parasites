@@ -1,6 +1,4 @@
-# Nithyashree Manohar 
-## Dragonfruit Coding Challenge 
-### Simulated fake parasitic microorganism images and dye sensor images. Used efficient data structures to store the images. Used both the images to check if the parasite has cancer 
+## Simulated fake parasitic microorganism images and dye sensor images. Used efficient data structures to store the images. Used both the images to check if the parasite has cancer 
 
 ### 1. Efficient data structure to store microscope and dye sensor images 
 
